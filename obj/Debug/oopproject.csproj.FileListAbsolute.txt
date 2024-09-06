@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\oopproject\obj\Debug\oopproject.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\oopproject\obj\Debug\oopproject.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\oopproject\bin\Debug\oopproject.exe.config
+C:\Users\moham\source\repos\oopproject\bin\Debug\oopproject.exe
+C:\Users\moham\source\repos\oopproject\bin\Debug\oopproject.pdb
+C:\Users\moham\source\repos\oopproject\obj\Debug\oopproject.exe
+C:\Users\moham\source\repos\oopproject\obj\Debug\oopproject.pdb
